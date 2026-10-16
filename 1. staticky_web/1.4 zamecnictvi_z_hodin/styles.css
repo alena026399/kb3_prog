@@ -11,6 +11,7 @@ p {
 img {
     border-radius: 15px;
     width: 100px;
+    transition: 1s;
 }
 
 .cerny {
@@ -64,7 +65,7 @@ img {
 }
 
 img:hover {
-    width: 110px;
+    width: 105px;
     transition: 1s;
 }
 
