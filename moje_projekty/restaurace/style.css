@@ -1,0 +1,46 @@
+body {
+    max-width: 750px;
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(20, 10, 10);
+    color: rgb(240, 220, 200);        
+    padding: 20px;
+    background-image: src="obr.jpg";
+    background-image: url(knihovna.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 100vh;
+   
+}
+div{
+    background-color: rgb(58, 4, 4);
+    padding: 20px 40px;
+}
+
+h1{
+font-family: 'Georgia', serif;
+    text-align: center;
+    color: rgb(241, 210, 106);          
+    font-size: 2.5rem;
+    margin-bottom: 5px;
+    }
+ 
+h2 {
+    text-align: center;
+    font-size: 1.1rem;
+    color: rgb(241, 210, 106);
+    font-weight: normal;
+    margin-bottom: 40px;
+}
+h3 {
+    color: rgb(241, 210, 106);          
+    border-bottom: 1px solid rgb(80, 30, 30);
+    padding-bottom: 5px;
+    margin-top: 30px;
+}
+h4 {
+    color: rgb(241, 210, 106);
+    margin-bottom: 5px;
+}
